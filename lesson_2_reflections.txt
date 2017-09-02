@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	The working directory contains all files created in that directory while the staging area only contains files that you wish to commit. This is valuable because it allows you to group together files that are similar in one commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	You can use the staging area to compare the files in the staging area to the most recent commit in the repository by using the command git diff --staged. This will allow you to see the changed you have made just before creating a new commit.
