@@ -1,1 +1,2 @@
 When would you want to use a remote repository rather than keeping all your work local?
+   You would want to use a remote repository when you would like to allow other people to work on and edit your program. For example, if you are working in a group and you all need to work on the project at the same time and share your edits with the rest of the group.
